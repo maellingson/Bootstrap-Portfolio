@@ -1,0 +1,79 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+
+h2{
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    position: absolute;
+    bottom: 30px;
+    width: 370px;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-family: Georgia, Times, "Times New Roman", serif;
+
+}
+.bottom{
+    text-align: center;
+    background-color:#666666;
+    height: 100px;
+    border-top: 10px;
+    border-color: #4aaaa5;
+    border-style: solid;
+    border-bottom: 0;
+    border-right: 0;
+    border-left: 0;
+
+}
+
+.jumbotron-fluid{
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #ffffff; 
+
+
+}
+.navbar-brand{
+    background-color: #4aaaa5;
+    color:white;
+    padding: 10px;
+    margin-left: 90px;
+}
+
+.navbar-expand-lg{
+    background-color: #ffffff;
+    border-color: #cccccc;
+    border-style: solid;
+    border-width: 2px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
+.clearfix {
+    overflow: auto;
+}
+.aboutImg{
+    float: left;
+    padding: 10px;
+
+}
+
+.img-fluid{
+    padding: 15px;
+}
