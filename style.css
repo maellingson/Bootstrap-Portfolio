@@ -9,8 +9,8 @@ h1{
 }
 
 h2{
-    color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: 1;
 }
 
 h3{
@@ -76,4 +76,12 @@ h3{
 
 .img-fluid{
     padding: 15px;
+}
+.textOverlay{
+    color: #4aaaa5;
+    height: 150px;
+    width: 400px;
+}
+.githubRepoLink{
+    font-size: 14pt;
 }
